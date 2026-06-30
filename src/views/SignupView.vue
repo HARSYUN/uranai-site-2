@@ -124,7 +124,7 @@
     
   try {
       
-        const res = await fetch('http://localhost:3000/register', {
+        const res = await fetch('uranai-site-2-hmarbyfweydthnc7.japanwest-01.azurewebsites.net', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
