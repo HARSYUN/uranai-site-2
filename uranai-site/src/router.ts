@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 
 // views
 import StartView from './views/StartView.vue'
-import SignUpView from './views/SignUpView.vue'
+import SignupView from './views/SignupView.vue'
 import SignupEmailView from './views/SignupEmailView.vue'
 import SignupCompleteView from './views/SignupCompleteView.vue'
 
