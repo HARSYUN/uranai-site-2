@@ -124,7 +124,7 @@
     
   try {
       
-        const res = await fetch('uranai-site-2-hmarbyfweydthnc7.japanwest-01.azurewebsites.net', {
+        const res = await fetch('http://localhost:3000/login', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
