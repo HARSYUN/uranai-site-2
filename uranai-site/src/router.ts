@@ -13,7 +13,7 @@ import MainResultView from './views/MainResultView.vue'
 
 const routes = [
   { path: '/', component: StartView }, 
-  { path: '/signup', component: SignUpView },
+  { path: '/signup', component: SignupView },
   { path: '/signup_email', component: SignupEmailView },
   { path: '/signup_complete', component: SignupCompleteView },
 
