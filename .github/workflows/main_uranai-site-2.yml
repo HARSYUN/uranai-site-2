@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'uranai-site-2'
           slot-name: 'Production'
-          package: dist
+          package: .
           
