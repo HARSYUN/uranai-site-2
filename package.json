@@ -1,5 +1,5 @@
 {
-  "name": "uranai-site",
+  "name": "uranai-site-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.34"
+    "vue": "^3.5.34",
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@types/node": "^24.12.3",
